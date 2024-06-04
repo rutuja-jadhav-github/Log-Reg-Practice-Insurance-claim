@@ -1,6 +1,7 @@
 # Logistic-Regression-car-insurance-claims
 ![image](https://github.com/rutuja-jadhav-github/Logistic-Regression-car-insurance-claims/assets/160432263/4f3c71e0-bc43-4cf2-b813-e3076999a56f)
 
+
 ## Context
 Used a practice dataset and problem statement from Data Camp. Determined the accuracy and recall for the fitted values of a logistic regression model for car insurance claims to recommend the best predictor of insuarance claims.
 
