@@ -1,5 +1,5 @@
 # Logistic-Regression-car-insurance-claims
-![image](https://github.com/rutuja-jadhav-github/Logistic-Regression-car-insurance-claims/assets/160432263/4f3c71e0-bc43-4cf2-b813-e3076999a56f)
+![image](https://github.com/rutuja-jadhav-github/Log-Reg-Practice-Insurance-claim/assets/160432263/6d724e4c-2ad1-40fe-b039-f37d26c7584c)
 
 
 ## Context
